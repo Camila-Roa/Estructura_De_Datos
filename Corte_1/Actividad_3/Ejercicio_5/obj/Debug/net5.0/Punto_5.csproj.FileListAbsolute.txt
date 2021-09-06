@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\Punto_5.exe
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\Punto_5.deps.json
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\Punto_5.runtimeconfig.json
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\Punto_5.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\Punto_5.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\ref\Punto_5.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_5\bin\Debug\net5.0\Punto_5.pdb
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\ref\Punto_5.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.pdb
+C:\Users\maria\OneDrive\Escritorio\Punto_5\obj\Debug\net5.0\Punto_5.genruntimeconfig.cache

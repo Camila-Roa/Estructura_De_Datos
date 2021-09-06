@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.exe
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.deps.json
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.runtimeconfig.json
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.dll
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\ref\Ejercicio_10.dll
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.pdb
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.dll
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\ref\Ejercicio_10.dll
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.pdb
+C:\Users\maria\OneDrive\Escritorio\Actividad_Semanal_IV\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.genruntimeconfig.cache

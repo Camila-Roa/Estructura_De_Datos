@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\Punto_2.exe
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\Punto_2.deps.json
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\Punto_2.runtimeconfig.json
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\Punto_2.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\Punto_2.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\ref\Punto_2.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_2\bin\Debug\net5.0\Punto_2.pdb
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\ref\Punto_2.dll
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.pdb
+C:\Users\maria\OneDrive\Escritorio\Punto_2\obj\Debug\net5.0\Punto_2.genruntimeconfig.cache
