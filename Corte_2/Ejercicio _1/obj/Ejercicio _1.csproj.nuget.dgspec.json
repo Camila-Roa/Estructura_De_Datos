@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\OneDrive\\Escritorio\\Ejercicio _1\\Ejercicio _1.csproj": {}
+    "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Estructura_De_Datos\\Corte_2\\Ejercicio _1\\Ejercicio _1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\OneDrive\\Escritorio\\Ejercicio _1\\Ejercicio _1.csproj": {
+    "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Estructura_De_Datos\\Corte_2\\Ejercicio _1\\Ejercicio _1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Escritorio\\Ejercicio _1\\Ejercicio _1.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Estructura_De_Datos\\Corte_2\\Ejercicio _1\\Ejercicio _1.csproj",
         "projectName": "Ejercicio _1",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Ejercicio _1\\Ejercicio _1.csproj",
+        "projectPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Estructura_De_Datos\\Corte_2\\Ejercicio _1\\Ejercicio _1.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Ejercicio _1\\obj\\",
+        "outputPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Estructura_De_Datos\\Corte_2\\Ejercicio _1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
