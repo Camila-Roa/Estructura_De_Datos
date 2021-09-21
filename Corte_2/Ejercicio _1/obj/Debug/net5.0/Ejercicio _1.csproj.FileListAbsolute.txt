@@ -1,0 +1,5 @@
+C:\Users\maria\OneDrive\Escritorio\Ejercicio _1\obj\Debug\net5.0\Ejercicio _1.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\Ejercicio _1\obj\Debug\net5.0\Ejercicio _1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Escritorio\Ejercicio _1\obj\Debug\net5.0\Ejercicio _1.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Ejercicio _1\obj\Debug\net5.0\Ejercicio _1.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Escritorio\Ejercicio _1\obj\Debug\net5.0\Ejercicio _1.csproj.CoreCompileInputs.cache
