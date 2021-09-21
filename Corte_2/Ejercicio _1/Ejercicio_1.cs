@@ -100,7 +100,7 @@ namespace AplicacionBase
 
         static void Main(string[] args)
         {
-            Program pv = new Program();
+            Ejercicio_1 pv = new Ejercicio_1();
             pv.Ingresar();
             pv.Imprimir();
             pv.Sumar_filas();
