@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\Ejercicio_6.exe
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\Ejercicio_6.deps.json
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\Ejercicio_6.runtimeconfig.json
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\Ejercicio_6.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\Ejercicio_6.dll
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\ref\Ejercicio_6.dll
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\bin\Debug\net5.0\Ejercicio_6.pdb
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.dll
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\ref\Ejercicio_6.dll
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.pdb
+C:\Users\maria\OneDrive\Escritorio\Ejercicio_6\obj\Debug\net5.0\Ejercicio_6.genruntimeconfig.cache
